@@ -5,9 +5,9 @@
  * Regla 1. Utilizar el selector universal `*` para cambiar el tipo de fuente del documento
  * Regla 2. Añadir el elemento body en el cual añadiremos el background con la siguiente [Imagen](https://www.wallpaperflare.com/anime-anime-grasoso-bloodborne-video-game-art-fantasy-city-wallpaper-cwerh/download/2160x1440)
  * Regla 3. En el elemento body vamos a tener que poner el background fijo para que la imagen no se mueva al desplazar el texto.
- * Regla 4. Los elementos de h1 con color rgb(104, 9, 9)
- * Regla 5. 
- * Regla 6.
+ * Regla 4. Los elementos de `h1` con color rgb(104, 9, 9)
+ * Regla 5. Los elementos con clase `title` tendrán que estar en color `rgb(104, 9, 9)`
+ * Regla 6. 
  * Regla 7.
  * Regla 8.
  * Regla 9.
