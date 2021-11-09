@@ -2,10 +2,21 @@
 1. Utilizar [Google Fonts](https://fonts.google.com/) para cambiar el tipo de fuente del documento la siguiente fuente: https://fonts.google.com/specimen/Cinzel+Decorative#standard-styles
 2. Poner un favicon en la siguiente página: https://www.pngitem.com/middle/hhmwow_bloodborne-hunters-mark-tattoo-png-download-hunters-mark/
 3. Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
- Regla 1. Utilizar el selector universal `*` para cambiar el tipo de fuente del documento
- Regla 2. Añadir el elemento body en el cual añadiremos el background con la siguiente [Imagen](https://www.wallpaperflare.com/anime-anime-grasoso-bloodborne-video-game-art-fantasy-city-wallpaper-cwerh/download/2160x1440)
- Regla 3. En el elemento body vamos a tener que poner el background fijo para que la imagen no se mueva al desplazar el texto.
- Regla 4. Los elementos de h1 con color rgb(104, 9, 9)
+ * Regla 1. Utilizar el selector universal `*` para cambiar el tipo de fuente del documento
+ * Regla 2. Añadir el elemento body en el cual añadiremos el background con la siguiente [Imagen](https://www.wallpaperflare.com/anime-anime-grasoso-bloodborne-video-game-art-fantasy-city-wallpaper-cwerh/download/2160x1440)
+ * Regla 3. En el elemento body vamos a tener que poner el background fijo para que la imagen no se mueva al desplazar el texto.
+ * Regla 4. Los elementos de h1 con color rgb(104, 9, 9)
+ * Regla 5. 
+ * Regla 6.
+ * Regla 7.
+ * Regla 8.
+ * Regla 9.
+ * Regla 10.
+ * Regla 11.
+ * Regla 12
+ * Regla 13.
+ * Regla 14.
+ * Regla 15.
 Añadir un borde de color rgb(104, 9, 9) y estilo border:instet. y dentro de este borde poner un bakcground color negro.
 Hacer una documento de styles.css
 Poner el siguiente background: https://www.wallpaperflare.com/anime-anime-grasoso-bloodborne-video-game-art-fantasy-city-wallpaper-cwerh/download/2160x1440
