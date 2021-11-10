@@ -30,18 +30,12 @@
     display: inline-block; 
     width: 1em; 
     margin-left: -1em; 
+    text-decoration:rgb(104, 9, 9) underline;
   }
   ```
   Para que se nos quede la bolita de la lista de color blanco.
- * Regla 15. 
-Añadir un borde de color rgb(104, 9, 9) y estilo border:instet. y dentro de este borde poner un bakcground color negro.
-Hacer una documento de styles.css
-Poner el siguiente background: https://www.wallpaperflare.com/anime-anime-grasoso-bloodborne-video-game-art-fantasy-city-wallpaper-cwerh/download/2160x1440
-Poner una clase titulo con tamaño 70px y color rgb(104, 9, 9)
-Poner el mismo color del titulo en los subtitulos.
-Añadir esta imagen https://media.vandal.net/i/1280x720/3-2018/201832201439_1.jpg.webp con un borde instet color: white tamaño 40%
-En el estilo body poner un margen de 5% y 10%
-Añadimos estas imagenes debajo del párrafo de jugabilidad , https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbloodborne%2Fcomments%2Fewe0i6%2Fhas_anyone_created_doll_in_the_character_creation%2F&psig=AOvVaw2iMKVKdsdP1-T5m0Nmqktp&ust=1636547213188000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiy7c-ji_QCFQAAAAAdAAAAABAD
+ * Regla 15. En la etiqueta hr vamos a poner de tamaño `10px` de color `white`
+
 
 
 
