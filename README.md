@@ -7,7 +7,7 @@
  * Regla 3. En el elemento body vamos a tener que poner el background fijo para que la imagen no se mueva al desplazar el texto.
  * Regla 4. Los elementos de `h1` con color rgb(104, 9, 9)
  * Regla 5. Los elementos con clase `title` tendrán que estar en color `rgb(104, 9, 9)`
- * Regla 6. 
+ * Regla 6. Los parrafos tienen que 
  * Regla 7.
  * Regla 8.
  * Regla 9.
